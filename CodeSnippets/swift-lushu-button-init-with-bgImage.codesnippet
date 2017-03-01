@@ -2,21 +2,23 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>lushu button init with bgImage</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string></string>
+	<string>UIButton(&lt;#title#&gt;, image:&lt;#image#&gt;, bgColor:&lt;#backgroundColor#&gt;, font:&lt;#UIFont#&gt;, textColor: &lt;#UIColor#&gt;, imgEdgeInset:&lt;#UIEdgeInsets#&gt;, radius: &lt;#CGFloat#&gt;, state:&lt;#UIControlState#&gt;)</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>F264D2A7-476E-453A-9726-D2E17825E576</string>
+	<string>17CB279C-217B-4D23-AB48-1A51F2B5AB3C</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>My Code Snippet</string>
+	<string>lushu button init , image &amp; text</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
